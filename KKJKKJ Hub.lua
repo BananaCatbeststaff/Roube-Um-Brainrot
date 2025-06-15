@@ -10,7 +10,7 @@ local RunService = game:GetService("RunService")
 local LocalPlayer = Players.LocalPlayer
 
 -- ⚙️ Configurações Otimizadas
-local StepAmountToTP = 500
+local StepAmountToTP = 1000 
 local totalTime = 0.1
 local SafeTPGuarantee = 3
 local NEARBY_DISTANCE = 15
